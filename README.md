@@ -25,4 +25,5 @@ run genai.bat
 
 ![Export to web](./images/ai_formulation.jpg)
 
-
+## Tutorial
+[Video](https://youtu.be/25tDXTV3Lr0)
